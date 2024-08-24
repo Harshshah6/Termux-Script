@@ -11,7 +11,7 @@ echo ""
 echo ""
 
 pkg update
-pkg install nodejs
+pkg install nodejs -y
 
 clear
 echo "--------------------------------------------"
